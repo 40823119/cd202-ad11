@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 40823119'
+AUTHOR =' 40823119'
 SITENAME = '40823119 stagle-ag11'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
