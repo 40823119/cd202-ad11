@@ -56,7 +56,7 @@
 <v t="leo.20170710022041.1"><vh>@path markdown</vh>
 <v t="leo.20180115115910.1"><vh>2020</vh>
 <v t="leo.20180423103639.1"><vh>2020 Fall CP 課程</vh>
-<v t="leo.20180423103656.1"><vh>@edit 20200813.md</vh>
+<v t="leo.20180423103656.1"><vh>@clean 20200813.md</vh>
 <v t="leo.20210318035425.1"><vh>newHeadline</vh></v>
 </v>
 </v>
@@ -104,7 +104,7 @@ Author: yen
 
 &lt;!-- PELICAN_END_SUMMARY --&gt;
 
-@
+@others
 
 </t>
 <t tx="leo.20210318035425.1">Python
