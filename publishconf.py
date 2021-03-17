@@ -30,7 +30,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
-DISQUS_SITENAME = "httpa-40823119-github-io-stagel-ag11"
+DISQUS_SITENAME = "https://40823149.github.io/stage1-ag11/content/index.html"
 DISQUS_DISPLAY_COUNTS = False
 #GOOGLE_ANALYTICS = ""
 
