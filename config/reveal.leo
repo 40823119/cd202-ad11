@@ -18,8 +18,21 @@
 <v t="leo.20200818165413.1"><vh>body</vh>
 <v t="leo.20200818170041.1"><vh>reveal div</vh>
 <v t="leo.20200818170222.1"><vh>slides div</vh>
-<v t="leo.20200818170328.1"><vh>slide 1</vh></v>
+<v t="leo.20200818170328.1"><vh>slide 1</vh>
+<v t="leo.20210318044719.1"><vh>slide1-1</vh></v>
+</v>
 <v t="leo.20200818170535.1"><vh>slide 2</vh></v>
+<v t="leo.20210318045539.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318050435.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318050655.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318051023.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318051127.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318051331.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318051331.2"><vh>newHeadline</vh></v>
+<v t="leo.20210318051331.3"><vh>newHeadline</vh></v>
+<v t="leo.20210318051332.1"><vh>newHeadline</vh></v>
+<v t="leo.20210318051332.2"><vh>newHeadline</vh></v>
+<v t="leo.20210318051332.3"><vh>newHeadline</vh></v>
 <v t="leo.20200818170636.1"><vh>slide3</vh>
 <v t="leo.20200818170909.1"><vh>slide 3-1</vh></v>
 <v t="leo.20200818170953.1"><vh>slide 3-2</vh></v>
@@ -208,21 +221,18 @@ vertical: body pane on the botton</t>
     @others
 &lt;/div&gt;</t>
 <t tx="leo.20200818170328.1">&lt;section&gt;
-    &lt;a href="https://revealjs.com"&gt;
-        &lt;img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" alt="reveal.js logo" style="height: 180px; margin: 0 auto 4rem auto; background: transparent;" class="demo-logo"&gt;
-    &lt;/a&gt;
-    &lt;h3&gt;The HTML Presentation Framework&lt;/h3&gt;
-    &lt;p&gt;
-        &lt;small&gt;Created by &lt;a href="http://hakim.se"&gt;Hakim El Hattab&lt;/a&gt; and &lt;a href="https://github.com/hakimel/reveal.js/graphs/contributors"&gt;contributors&lt;/a&gt;&lt;/small&gt;
-    &lt;/p&gt;
+&lt;h1&gt;stage1-ag11&lt;/h1&gt;
+
 &lt;/section&gt;
 
 </t>
 <t tx="leo.20200818170535.1">&lt;section&gt;
-    &lt;h2&gt;Hello There&lt;/h2&gt;
-    &lt;p&gt;
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    &lt;/p&gt;
+    &lt;h2&gt;w2&lt;/h2&gt;
+    &lt;p&gt;經過深思熟慮決定好題目是捕獸夾&lt;/p&gt;
+
+&lt;p&gt;我們參考的項目&lt;/p&gt;
+&lt;p&gt;&lt;iframe src="//player.bilibili.com/player.html?aid=29706862&amp;bvid=BV1DW411X7Yk&amp;cid=51689927&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"&gt; &lt;/iframe&gt; &lt;/p&gt;
+
 &lt;/section&gt;
 
 </t>
@@ -648,5 +658,78 @@ console.log( '"customevent" has fired' );
         - &lt;a href="https://github.com/hakimel/reveal.js"&gt;Source code &amp;amp; documentation&lt;/a&gt;
     &lt;/p&gt;
 &lt;/section&gt;</t>
+<t tx="leo.20210318044719.1">&lt;section&gt;
+&lt;h1&gt;組員&lt;/h1&gt;
+&lt;p&gt;40823119林郁凱&lt;/P&gt;
+&lt;P&gt;40823150蘇鷺瑋&lt;/P&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20210318045539.1">&lt;section&gt;
+    &lt;h2&gt;w2&lt;/h2&gt;
+    &lt;p&gt;依據構想畫圖&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823119/stage1-ag11/main/images/%E5%A4%BE%E5%AD%90.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318050435.1">&lt;section&gt;
+    &lt;h2&gt;w2&lt;/h2&gt;
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823119/stage1-ag11/main/images/%E5%A4%BE%E7%89%87.jpg"" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210318050655.1">&lt;section&gt;
+    &lt;h2&gt;w2&lt;/h2&gt;
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823119/stage1-ag11/main/images/%E5%BA%95%E6%9D%BF.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318051023.1">&lt;section&gt;
+    &lt;h2&gt;w2&lt;/h2&gt;
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823119/stage1-ag11/main/images/%E6%8F%92%E9%8A%B7.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318051127.1">&lt;section&gt;
+    &lt;h2&gt;w2&lt;/h2&gt;
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823119/stage1-ag11/main/images/%E6%8F%92%E9%8A%B7.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318051331.1">&lt;section&gt;
+    &lt;h2&gt;w3&lt;/h2&gt;
+    &lt;p&gt;繼續畫圖&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823119/stage1-ag11/main/images/L%E7%89%88.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318051331.2">&lt;section&gt;
+    &lt;h2&gt;w3&lt;/h2&gt;
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823119/stage1-ag11/main/images/%E9%80%A3%E6%8E%A5%E6%84%9F.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318051331.3">&lt;section&gt;
+    &lt;h2&gt;w3&lt;/h2&gt;
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823119/stage1-ag11/main/images/%E5%BD%88%E7%B0%A7.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318051332.1">&lt;section&gt;
+    &lt;h2&gt;w3&lt;/h2&gt;
+    &lt;p&gt;&lt;img src="https://raw.githubusercontent.com/40823119/stage1-ag11/main/images/%E8%A7%B8%E7%99%BC%E6%B0%A3.jpg" alt="" width="600" height="390"&gt;&lt;/p&gt;
+
+&lt;/section&gt;</t>
+<t tx="leo.20210318051332.2">&lt;section&gt;
+    &lt;h2&gt;w4&lt;/h2&gt;
+    &lt;p&gt;運用coppeliaSim模擬，但失敗了&lt;/p&gt;
+
+&lt;p&gt;我們參考的項目&lt;/p&gt;
+&lt;p&gt;https://youtu.be/2CN-I3oD7cU &lt;/p&gt;
+
+&lt;/section&gt;
+</t>
+<t tx="leo.20210318051332.3">&lt;section&gt;
+    &lt;h2&gt;心得&lt;/h2&gt;
+    &lt;p&gt;由於我們對於3D繪圖程式略為生疏，因此設計圖畫完後，要用inventor繪出時遇到許多的困難，用了兩個禮拜才畫完，導致最後沒有太多的時間用coppeliasim模擬，以至於無法模擬出作品的運作。&lt;/p&gt;
+
+
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
